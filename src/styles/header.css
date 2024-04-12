@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+.header-tabs {
+  display: flex;
+  flex-direction: row;
+}
+.tracking-wider {
+  letter-spacing: 0.05em;
+}
+.object-cover {
+  object-fit: cover;
+}
+.first-section {
+  position: relative;
+  background-image: url('https://wallpaperaccess.com/full/1691795.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Adjust as needed */
+}
+
+.btn {
+  overflow: hidden;
+  border-radius: 9999px;
+  padding: 1rem 1.5rem;
+  font-weight: 700;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-duration: .5s;
+}
+.btn:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(37 99 235 / var(--tw-bg-opacity))
+}
+.btn-outline {
+  border-width: 2px;
+  --tw-border-opacity: 1;
+  border-color: rgb(96 165 250 / var(--tw-border-opacity));
+}
+
+.btn-primary {
+  --tw-bg-opacity: 1;
+  background-color: rgb(96 165 250 / var(--tw-bg-opacity));
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity))
+}
+
+.btn-primary:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(37 99 235 / var(--tw-bg-opacity))
+}

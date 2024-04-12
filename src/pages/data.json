@@ -1,0 +1,90 @@
+{
+  "personalInfo": {
+    "name": "Srushti Timbadiya",
+    "profileImage": "/srushti.jpg",
+    "birthDate": "1997-11-25",
+    "gitHubLink": "https://github.com/vaddoriyasrushti",
+    "linkedInLink" : "http://linkedin.com/in/srushti-timbadiya-8a906a1ab/",
+    "location": "Regina, Saskatchewan",
+    "email": "vaddoriyasrushti9259@gmail.com"
+  },
+  "educationList": [
+  {
+    "duration": "2015 - 2019",
+    "degree": "Senior Software Engineer",
+    "collage": "Shree Swami Atmanand Saraswati Institute of Technology",
+    "other": "CGPA: 9.20 / 10.0"
+  },
+  {
+    "duration": "2013 - 2015",
+    "degree": "Mathematics & Science",
+    "collage": "P. P. Savani Vidhyalay, Surat",
+    "other": "12th || GSEB || Percentage: 82.92 / 100.00"
+  }
+],
+  "experienceList": [
+    {
+      "duration": "January 2019 - January 2024",
+      "position": "Senior Software Engineering (Full Stack)",
+      "company": "LANET team software solution",
+      "description": "Proficient in front-end (React.js, Next.js, JavaScript, TypeScript, HTML, CSS, SCSS) and back-end (Node.js, Nest.js, GraphQL, AWS, MySQL, MongoDB) development.\nLed feature development, conducted research, and provided technical expertise aligned with business needs.\nExperience in Agile development."
+    }
+  ],
+  "skills": [
+    {
+      "language": "Javascript",
+      "percentage": "85"
+    },
+    {
+      "language": "React js",
+      "percentage": "85"
+    },
+    {
+      "language": "Node js",
+      "percentage": "80"
+    },
+    {
+      "language": "Next js",
+      "percentage": "80"
+    },
+    {
+      "language": "Nest js",
+      "percentage": "75"
+    },
+    {
+      "language": "GraphQL",
+      "percentage": "85"
+    },
+    {
+      "language": "AWS",
+      "percentage": "65"
+    },
+    {
+      "language": "HTML/CSS",
+      "percentage": "85"
+    },
+    {
+      "language": "TypeScript",
+      "percentage": "80"
+    },
+    {
+      "language": "MySQL",
+      "percentage": "90"
+    },
+    {
+      "language": "JQuery",
+      "percentage": "70"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Cricket Contest",
+      "projectLang": "React",
+      "altName": "cricket contest",
+      "projectImg": "",
+      "projectLink": ""
+    }
+  ]
+
+
+}
